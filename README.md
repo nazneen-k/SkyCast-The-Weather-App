@@ -11,3 +11,5 @@
 ![Screenshot 2023-10-17 075639](https://github.com/nazneen-k/SkyCast-The-Weather-App/assets/117660793/1576c99b-01d6-46e7-a479-9822c34b4e78)
 
 ![Screenshot 2023-10-19 134935](https://github.com/nazneen-k/SkyCast-The-Weather-App/assets/117660793/b9550b16-8840-49ba-afc8-f61af1a42ce7)
+
+![Screenshot 2023-10-26 232843](https://github.com/nazneen-k/SkyCast-The-Weather-App/assets/117660793/41ad860d-dafe-4b99-a5cb-6c9987b59380)
